@@ -1,0 +1,8 @@
+Hello there!
+
+My name is doctor Smith. And you are xxx Doe?
+If your apply the sed command correctly and at the same time make sure that you store the output in a new file, 
+you will end up with a new file with maybe your name in it?
+
+Kind regards
+CMD

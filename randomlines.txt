@@ -1,0 +1,3 @@
+This is an example of some command output
+This is the second line of the output
+This is the last and third line of the output
