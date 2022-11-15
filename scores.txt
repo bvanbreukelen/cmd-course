@@ -1,0 +1,9 @@
+Peter 89
+Lucia 95
+Thomas 76
+Marta 67
+Joe 92
+Alex 78
+Sophia 90
+Alfred 65
+Kate 46
